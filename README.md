@@ -3,15 +3,11 @@
 
 - 🌱 I’m currently learning **machine learning**
 
-- 📝 I regularly write articles on [https://dev.to](https://dev.to)
+- 📝 I regularly write articles on [dev.to](https://dev.to)
 
 - 📫 How to reach me **nihalakndo321@gmail.com**
 
 - ⚡ Fun fact **I think I can control my overthinking**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
