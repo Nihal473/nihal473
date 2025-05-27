@@ -1,21 +1,17 @@
 <h1 align="center">Hi 👋, I'm Nihal Akndo</h1>
 <h3 align="center">A passionate programmer</h3>
 
-<table>
-  <tr>
-    <td>
-      <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="150" />
-    </td>
-    <td style="padding-left: 15px;">
-      <ul>
-        <li>🌱 I’m currently learning <b>machine learning</b></li>
-        <li>📝 I regularly write articles on <a href="https://dev.to" target="_blank">dev.to</a></li>
-        <li>📫 How to reach me <b>nihalakndo321@gmail.com</b></li>
-        <li>⚡ Fun fact <b>I think I can control my overthinking</b></li>
-      </ul>
-    </td>
-  </tr>
-</table>
+- 🌱 I’m currently learning **machine learning**
+
+- 📝 I regularly write articles on [dev.to](https://dev.to)
+
+- 📫 How to reach me **nihalakndo321@gmail.com**
+
+- ⚡ Fun fact **I think I can control my overthinking**
+so I have this text next to it 
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
