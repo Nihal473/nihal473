@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nihal Akndo</h1>
 <h3 align="center">A passionate programmer</h3>
 
+<p align="left">
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="200"/>
+</p>
+
+
 - 🌱 I’m currently learning **machine learning**
 
 - 📝 I regularly write articles on [dev.to](https://dev.to)
@@ -8,10 +13,6 @@
 - 📫 How to reach me **nihalakndo321@gmail.com**
 
 - ⚡ Fun fact **I think I can control my overthinking**
-so I have this text next to it 
-
-
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
