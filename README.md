@@ -2,8 +2,8 @@
 <h3 align="center">A passionate programmer</h3>
 
 <p align="center">
-  “Code is like humor. When you have to explain it, it’s bad.” 
-                                                       <b>– Cory House</b>
+  “Code is like humor. When you have to explain it, it’s bad.”<br>
+  <span style="display:block; text-align:right; font-weight:bold;">– Cory House</span>
 </p>
   
 <p align="center">
