@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nihal Akndo</h1>
 <h3 align="center">A passionate programmer</h3>
 
-<p align="right">
+<p align="center">
   <img src="[https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3QycnJ2YXU4YjQ2cjB5dmZ1OGY3YzNmNWpkeGoxd2l2NzNxcTF1ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif)" width="200"/>
 </p>
 
