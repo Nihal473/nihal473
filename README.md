@@ -1,10 +1,19 @@
 <h1 align="center">Hi 👋, I'm Nihal Akndo</h1>
 <h3 align="center">A passionate programmer</h3>
 
-<p align="center">
-  “Code is like humor. When you have to explain it, it’s bad.”<br>
-  <span style="display:block; text-align:right; font-weight:bold;">– Cory House</span>
-</p>
+<table width="100%">
+  <tr>
+    <td align="center" style="font-style: italic;">
+      “Code is like humor. When you have to explain it, it’s bad.”
+    </td>
+  </tr>
+  <tr>
+    <td align="right" style="font-weight: bold;">
+      – Cory House
+    </td>
+  </tr>
+</table>
+
   
 <p align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3QycnJ2YXU4YjQ2cjB5dmZ1OGY3YzNmNWpkeGoxd2l2NzNxcTF1ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="200" />
