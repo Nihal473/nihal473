@@ -3,7 +3,7 @@
 
 <p align="center">
   “Code is like humor. When you have to explain it, it’s bad.”<br>
-  <span style="display:block; text-align:right; font-weight:bold;">– Cory House</span>
+  <span style="display:block; text-align:right; font-weight:bold;"> – Cory House</span>
 </p>
 
 
